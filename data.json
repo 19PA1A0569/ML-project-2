@@ -7,7 +7,7 @@
         "shopping link for men":"https://www.myntra.com/party-wear-for-men",
         "shopping link for women":"https://www.myntra.com/women-party-wear-dresses",
         "website":"MYNTRA"
-    }
+    },
     "casual_wear":{
         "colours":"white,black,lightpink,green,grey,gold,lightyellow,red,orange",
         "images":"https://www.gentlemansgazette.com/wp-content/uploads/2016/05/Appropriate-business-casual-attire-for-young-men.jpg",
@@ -16,7 +16,7 @@
         "shopping link for men":"https://www.myntra.com/men-casual-wear",
         "shopping link for women":"https://www.faballey.com/clothing/cat/occasion-casual-wear",
         "website":"MYNTRA"
-    }
+    },
     "summer_wear":{
         "colours":"white,black,lightpink,green,grey,gold,lightyellow,red,orange",
         "images":"https://www.beyoung.in/blog/wp-content/uploads/2020/05/jump-2-min-853x1024.jpg",
@@ -25,7 +25,7 @@
         "shopping link for men":"https://www.myntra.com/men-summer-wear",
         "shopping link for women":"https://www.myntra.com/women-summer-wear",
         "website":"MYNTRA"
-    }
+    },
     "formal":{
         "colours":"white,black,lightpink,green,grey,gold,lightyellow,red,orange",
         "images":"https://5.imimg.com/data5/UB/WW/MY-51946024/men-27s-formal-shirt-250x250.jpg",
