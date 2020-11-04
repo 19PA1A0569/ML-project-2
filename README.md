@@ -11,6 +11,8 @@
 
 <b>Block diagram of this project:</b>
 
+![demo image](https://raw.githubusercontent.com/19PA1A0569/ML-project-2/main/2020-10-18%20(2).png)
+
 <b>Youtube Link of Demo:</b>
 
 https://youtu.be/Pwj_IyJ-woo
