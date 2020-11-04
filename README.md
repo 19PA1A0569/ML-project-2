@@ -1,24 +1,25 @@
 # ML-project-2
-1.PAVANI K - 19PA1A0569
+<b>1.PAVANI K - 19PA1A0569</b>
 
-Demo:
+<b>Demo:</b>
 
-Easy shopping
+<i>Easy shopping</i>
 
-Task of the Chatbot:
+<b>Task of the Chatbot:</b>
 
-This chatbot provides 24/7 service to the customers. It will provide the shopping links to customers based on the customers occasion and interest .It is made to ease the difficulty that the todays generation are facing in selecting a awesome outfit for their occassion. Within less time it provides various collection of amazing outfits . It is a conversational marketing tool. Modern generation loves these type of chatbots. It has ability to reply instantly. Finally it improves customer service. It is beneficial to both men and women. 
+<i>This chatbot provides 24/7 service to the customers. It will provide the shopping links to customers based on the customers occasion and interest .It is made to ease the difficulty that the todays generation are facing in selecting a awesome outfit for their occassion. Within less time it provides various collection of amazing outfits . It is a conversational marketing tool. Modern generation loves these type of chatbots. It has ability to reply instantly. Finally it improves customer service. It is beneficial to both men and women. </i>
+
+<b>Block diagram of this project:</b>
+
+<b>Youtube Link of Demo:</b>
 
 
-Youtube Link of Demo:
 
-https://youtu.be/2oSa7CabVgk
-
-Repl link of chatbot:
+<b>Repl link of chatbot:</b>
 
 https://CavernousRealisticIntegrationtesting.karnatipavani.repl.co
 
-Links for reference from Online:
+<b>Links for reference from Online:<b>
 
 https://www.w3schools.com/js/js_arithmetic.asp
 
